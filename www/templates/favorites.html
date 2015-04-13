@@ -1,0 +1,24 @@
+<ion-view view-title="Favorites | {{ username }}" class="favorites-page">
+ <ion-nav-buttons side="right">
+<button class="button" ng-click="logout()">
+Log out
+</button>
+</ion-nav-buttons>
+  <ion-content>
+
+    <ion-list show-delete="1">
+      <ion-item ng-repeat="song in favorites" class="item-avatar" ng-click="openSong(song)">
+        <img ng-src="{{song.image_small}}">
+        <h2>{{song.title}}</h2>
+        <p>{{song.artist}}</p>
+        
+
+        <ion-delete-button class="ion-minus-circled"
+                       ng-click="removeSong(song, $index)">
+        </ion-delete-button>
+      </ion-item>
+    </ion-list>
+    
+
+  </ion-content>
+</ion-view>
