@@ -1,4 +1,3 @@
-# LoraxViewer
 For the 2015 NASA International Space Apps Hackathon: Earth Challenge! 
 
 Lorax Viewer
@@ -10,8 +9,6 @@ Lorax Viewer
 The Lorax Viewer is a mobile app (and API) that allows citizen scientists to report on forest deforestation and degradation due to man-made or natural effects/disasters. The app will (someday) also have trending and visualization of reported data, including visual mapping of current and historical data. Additional data feeds may be from open data sources or sensor feeds. 
 
 **This project is solving the Forest Monitor Mapping challenge.**
-
-[View Lorax's changelog as an example](https://github.com/adrianlee44/lorax/blob/master/changelog.md)
 
 ## Lorax Viewer Inspiration
 **Dr. Seuss** invented [The Lorax] (http://en.wikipedia.org/wiki/The_Lorax) as one of the first environmental characters (*"I am the Lorax. I speak for the trees."*), and the story was a call to action for deforestation.
