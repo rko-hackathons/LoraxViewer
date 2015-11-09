@@ -40,5 +40,6 @@ NASA project site: https://2015.spaceappschallenge.org/project/loraxviewer/
 
 ## License
 
-MIT License
+Released under the [MIT License] (http://opensource.org/licenses/MIT)
+Copyright @ 2015 [RKOSecurity] (http://www.rkosecurity.com)
 
