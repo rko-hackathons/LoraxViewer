@@ -1,8 +1,8 @@
-For the 2015 NASA International Space Apps Hackathon: Earth Challenge! 
+Entry for the 2015 NASA International Space Apps Hackathon: Earth Challenge! 
 
 Lorax Viewer
 ===
-[![License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/adrianlee44/lorax/blob/master/LICENSE-MIT)
+[![License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/mkobar/LoraxViewer//blob/master/LICENSE)
 
 <img align="right" height="200" src="http://4.bp.blogspot.com/-nIhDGmiP2Vc/T1MD0BbiWxI/AAAAAAAABeQ/3DMn5DYC3YY/s1600/lorax1.png">
 
